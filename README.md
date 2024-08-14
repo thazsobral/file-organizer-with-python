@@ -4,7 +4,7 @@ Esse projeto foi baseado no [vídeo](https://www.youtube.com/watch?v=L8KFB0VyEwo
 ## Para executar o script
 Basta apenas acessar a pasta que deseja organizar via linha de comando e executar o script, como o exemplo abaixo.
 ```shell
-<caminho_da_pasta_que_deseja_organizar> > python <caminho_do_script_python_com_o_nome_dele.py> 
+<caminho_da_pasta_que_deseja_organizar> > python file-organizer.py 
 ```
 
 > *Caso deseje sugerir ideias ou criticar, basta apenas abrir uma issue.* 👍😁
